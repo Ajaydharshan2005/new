@@ -36,3 +36,6 @@ Image Processing: Extract and analyze handwriting from uploaded images.
 AI/ML: Develop or utilize a model to assess handwriting chaos quantitatively.
 Gamification: Build an engaging leaderboard to keep users entertained.
 Frontend/Backend Development: Full-stack project experience involving real-time interactivity.
+
+
+
